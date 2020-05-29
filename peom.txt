@@ -3,6 +3,7 @@ purple
 red
 pink
 green
+Indigo
 unicord
 yellow
 these are some of colors of rainbow and unicord
